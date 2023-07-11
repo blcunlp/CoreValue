@@ -52,4 +52,4 @@
 
 
 ## 中文价值-行为知识库
-[knowledgebase]()
+[KnowledgeBase](https://github.com/blcunlp/CoreValue/blob/main/KnowledgeBase.xlsx)
